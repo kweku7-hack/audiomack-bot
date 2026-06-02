@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Get token from environment variable (SECURE!)
-BOT_TOKEN = os.environ.get("8919834679:AAHU7g34JcTvGd3YA0R6tUoC-sCPI66MUBI")
+BOT_TOKEN = os.environ.get("8919834679:AAEFHREfFJ39HnxHVnQukHGShrEo-YYjslw")
 
 class AudiomackDownloader:
     @staticmethod
